@@ -5,5 +5,5 @@ name = input("enter ur name: ")
 print(name)
 age = int(input("how old r u? "))
 print(age)
-year =(2020-age)+100
-print(name+"will turn 100 years old in year "+str(year))
+year = (2020 - age) + 100
+print( name + "will turn 100 years old in year " + str(year) )
